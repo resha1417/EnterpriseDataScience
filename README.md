@@ -1,6 +1,8 @@
 ADS_COVID_19
 ==============================
 
+1. Refer README_resha.md for setup instructions
+
 applied data science on COVID-19 data
 
 Project Organization
